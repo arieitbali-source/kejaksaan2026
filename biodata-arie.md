@@ -1,4 +1,4 @@
-Nama : Arie IT Bali
-Instansi : Kejaksaan Negeri Kajarta
-Jabatan : Prakom Ahli Pertama
+Nama : Arie IT Bali </br>
+Instansi : Kejaksaan Negeri Kajarta </br>
+Jabatan : Prakom Ahli Pertama </br>
 Sosial Media : iwayans
